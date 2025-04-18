@@ -1,7 +1,8 @@
-@media screen and (min-width:900px){}
+/* @media screen and (min-width:900px){} */
     
  body {
     font-family: 'Your Chosen Font', sans-serif;
+    
  }
     
 
@@ -15,11 +16,11 @@ h3{
 
 .container1 {
     display: flex;
+    justify-content: space-between;
 }
 
 .fa-solid {
    padding: 10px;
-   padding-left: 150px;
 }
 
 .logo{
