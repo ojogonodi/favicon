@@ -1,13 +1,9 @@
-@media (max-width: 768px) {
-    .container1 {
-        font-size: 16px;
-    }
+@media screen and (min-width:900px){}
     
  body {
     font-family: 'Your Chosen Font', sans-serif;
  }
     
-}
 
 h5 {
     color: rgb(177, 177, 177);
